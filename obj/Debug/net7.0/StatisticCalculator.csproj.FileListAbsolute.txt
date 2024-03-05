@@ -1,0 +1,14 @@
+C:\Users\Josuan\Desktop\CSharpOOP\StatisticCalculator\bin\Debug\net7.0\StatisticCalculator.exe
+C:\Users\Josuan\Desktop\CSharpOOP\StatisticCalculator\bin\Debug\net7.0\StatisticCalculator.deps.json
+C:\Users\Josuan\Desktop\CSharpOOP\StatisticCalculator\bin\Debug\net7.0\StatisticCalculator.runtimeconfig.json
+C:\Users\Josuan\Desktop\CSharpOOP\StatisticCalculator\bin\Debug\net7.0\StatisticCalculator.dll
+C:\Users\Josuan\Desktop\CSharpOOP\StatisticCalculator\bin\Debug\net7.0\StatisticCalculator.pdb
+C:\Users\Josuan\Desktop\CSharpOOP\StatisticCalculator\obj\Debug\net7.0\StatisticCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josuan\Desktop\CSharpOOP\StatisticCalculator\obj\Debug\net7.0\StatisticCalculator.AssemblyInfoInputs.cache
+C:\Users\Josuan\Desktop\CSharpOOP\StatisticCalculator\obj\Debug\net7.0\StatisticCalculator.AssemblyInfo.cs
+C:\Users\Josuan\Desktop\CSharpOOP\StatisticCalculator\obj\Debug\net7.0\StatisticCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Josuan\Desktop\CSharpOOP\StatisticCalculator\obj\Debug\net7.0\StatisticCalculator.dll
+C:\Users\Josuan\Desktop\CSharpOOP\StatisticCalculator\obj\Debug\net7.0\refint\StatisticCalculator.dll
+C:\Users\Josuan\Desktop\CSharpOOP\StatisticCalculator\obj\Debug\net7.0\StatisticCalculator.pdb
+C:\Users\Josuan\Desktop\CSharpOOP\StatisticCalculator\obj\Debug\net7.0\StatisticCalculator.genruntimeconfig.cache
+C:\Users\Josuan\Desktop\CSharpOOP\StatisticCalculator\obj\Debug\net7.0\ref\StatisticCalculator.dll
